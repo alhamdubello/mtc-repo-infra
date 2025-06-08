@@ -1,2 +1,1 @@
-# mtc-repo-infra
-infra Code for MTC
+# This prod repository is for infra developers.
