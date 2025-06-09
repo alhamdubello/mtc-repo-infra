@@ -1,1 +1,1 @@
-# This prod repository is for infra developers.
+# This prod terraform repository is for infra developers.
